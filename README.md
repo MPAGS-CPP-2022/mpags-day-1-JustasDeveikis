@@ -8,12 +8,13 @@ Affiliation: University of Warwick, Coventry
 A simple command line tool for encrypting/decrypting text using classical ciphers
 
 ## How to install
----
+No guidelines yet.
 
 ## Documentation
 None.
 
-
 ## Empty line
+None
 
 ## More empty lines
+None
