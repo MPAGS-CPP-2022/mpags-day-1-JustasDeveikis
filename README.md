@@ -18,3 +18,5 @@ None
 
 ## More empty lines
 None
+
+Line for conflict.
